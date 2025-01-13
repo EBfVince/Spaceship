@@ -28,7 +28,7 @@
     "@babel/eslint-parser": "7.26.5",
     "@nuxt/types": "2.18.1",
     "@nuxt/typescript-build": "2.1.0",
-    "@nuxtjs/eslint-config-typescript": "11.0.0",
+    "@nuxtjs/eslint-config-typescript": "12.1.0",
     "@nuxtjs/eslint-module": "4.1.0",
     "@nuxtjs/vuetify": "1.12.3",
     "@vue/test-utils": "2.4.6",
