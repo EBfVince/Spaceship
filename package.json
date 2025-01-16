@@ -19,7 +19,7 @@
     "@nuxtjs/firebase": "8.2.2",
     "@nuxtjs/pwa": "3.3.5",
     "core-js": "3.40.0",
-    "firebase": "10.11.1",
+    "firebase": "11.2.0",
     "firebaseui": "6.1.0",
     "is_js": "0.9.0",
     "nuxt": "2.15.8"
